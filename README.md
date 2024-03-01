@@ -1,41 +1,41 @@
-# C++ Classes Projects
+# Progetti su Classi in C++
 
-This repository contains a collection of C++ projects focusing on classes and object-oriented programming concepts. Each project is designed to help you understand and practice various aspects of classes in C++.
+Questo repository contiene una collezione di progetti in C++ focalizzati sulle classi e sui concetti di programmazione orientata agli oggetti. Ogni progetto è progettato per aiutarti a comprendere e praticare vari aspetti delle classi in C++.
 
-## Projects Overview
+## Panoramica dei Progetti
 
-1. **Basic Class Creation**: Implement a simple rectangle class with member functions for area and perimeter calculation.
+1. **Creazione di Classi di Base**: Implementare una semplice classe rettangolo con funzioni membro per il calcolo dell'area e del perimetro.
    
-2. **Constructor Overloading**: Extend the rectangle class to include different constructors for initializing dimensions.
+2. **Sovraccarico dei Costruttori**: Estendere la classe rettangolo per includere diversi costruttori per l'inizializzazione delle dimensioni.
 
-3. **Encapsulation**: Create an employee class demonstrating encapsulation of private member variables.
+3. **Incapsulamento**: Creare una classe dipendente che dimostri l'incapsulamento delle variabili membro private.
 
-4. **Inheritance**: Implement a base shape class and derive rectangle, circle, and triangle classes to calculate their areas.
+4. **Ereditarietà**: Implementare una classe di base e derivare classi rettangolo, cerchio e triangolo per calcolare le loro aree.
 
-5. **Polymorphism**: Demonstrate runtime polymorphism by storing different shapes in a shape array and calculating their areas.
+5. **Polimorfismo**: Dimostrare il polimorfismo a tempo di esecuzione memorizzando diverse forme in un array di forme e calcolando le loro aree.
 
-6. **Operator Overloading**: Overload the + operator to add two rectangle objects.
+6. **Sovraccarico degli Operatori**: Sovraccaricare l'operatore + per aggiungere due oggetti rettangolo.
 
-7. **Copy Constructor and Assignment Operator**: Implement proper copying and assignment of rectangle objects.
+7. **Costruttore di Copia e Operatore di Assegnazione**: Implementare la copia corretta e l'assegnazione degli oggetti rettangolo.
 
-8. **Destructor**: Add a destructor to release resources used by rectangle objects.
+8. **Distruttore**: Aggiungere un distruttore per rilasciare le risorse utilizzate dagli oggetti rettangolo.
 
-9. **Friend Functions**: Implement a friend function to calculate the diagonal length of a rectangle.
+9. **Funzioni Amichevoli**: Implementare una funzione amica per calcolare la lunghezza diagonale di un rettangolo.
 
-10. **Static Members**: Utilize static member variables to count the number of rectangle objects created.
+10. **Membri Statici**: Utilizzare variabili membro statiche per contare il numero di oggetti rettangolo creati.
 
-## Getting Started
+## Primi Passi
 
-To get started with any of the projects, simply navigate to the respective project directory and explore the source code files. Each project directory contains a README.md file with specific instructions and details about the project.
+Per iniziare con uno qualsiasi dei progetti, naviga semplicemente nella directory del progetto corrispondente ed esplora i file del codice sorgente. Ogni directory del progetto contiene un file README.md con istruzioni specifiche e dettagli sul progetto.
 
-## Usage
+## Utilizzo
 
-Feel free to clone or fork this repository to explore, modify, and expand upon the projects. You can also contribute additional projects or improvements by creating pull requests.
+Sentiti libero di clonare o fare il fork di questo repository per esplorare, modificare ed ampliare i progetti. Puoi anche contribuire con progetti aggiuntivi o miglioramenti creando delle richieste pull.
 
-## Contributing
+## Contributi
 
-Contributions are welcome! If you have any ideas for new projects, improvements, or bug fixes, please open an issue or submit a pull request with your changes.
+I contributi sono benvenuti! Se hai idee per nuovi progetti, miglioramenti o correzioni di bug, per favore apri una issue o invia una richiesta pull con le tue modifiche.
 
-## License
+## Licenza
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Questo repository è sotto licenza MIT. Vedi il file [LICENSE](LICENSE) per i dettagli.
