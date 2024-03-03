@@ -31,9 +31,9 @@ class Employee{
 
 int main() {
 
-    Employee e;
+    Employee user;
 
-    cout << "NAME: " << e.getName() << endl;
-    cout << "ID: " << e.getId() << endl;
-    cout << "SALARY: " << e.getSalary() << endl;
+    cout << "NAME: " << user.getName() << endl;
+    cout << "ID: " << user.getId() << endl;
+    cout << "SALARY: " << user.getSalary() << endl;
 }
