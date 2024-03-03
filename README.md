@@ -5,7 +5,7 @@ Questo repository contiene una collezione di progetti in C++ focalizzati sulle c
 ## Panoramica dei Progetti
 
 1. **Creazione di Classi di Base**: Implementare una semplice classe rettangolo con funzioni membro per il calcolo dell'area e del perimetro.
-   
+
 2. **Sovraccarico dei Costruttori**: Estendere la classe rettangolo per includere diversi costruttori per l'inizializzazione delle dimensioni.
 
 3. **Incapsulamento**: Creare una classe dipendente che dimostri l'incapsulamento delle variabili membro private.
